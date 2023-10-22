@@ -94,7 +94,7 @@ private func printNamedEntities(text: String) {
 
 ### Predict Language
 
-```
+```swift
 import UIKit
 import NaturalLanguage
 import CoreML
